@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(72, 170, 72);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: rgb(113, 255, 123);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#div_img{
+    position: relative;
+    top: 4px;
+}
+
+.centro_pag{
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    height: auto;
+    text-align: center;
+    display: block;
+}
+
+#instrucao{
+    position: relative;
+    margin: 10px;
+    font-size: 25px;
+}
+
+#valores{
+    padding-right: 565px;
+    padding-left: 400px;
+    text-align: right;
+}
+
+.div_valores{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 10px;
+}
+
+.cx_quant{ 
+    width: 50px;
+    height: 50px;
+    border-radius: 6px; 
+}
+
+#btn_sortear{
+    background-color: rgb(127, 216, 127);
+    margin: 20px auto;
+    padding: 6px 12px;
+    font-size: 24px;
+    font-weight: 400;
+    border-radius: 4px;
+}
+
+#div_txt_result{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 10px;
+}
+
+#div_result{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 10px;
+}
